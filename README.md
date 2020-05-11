@@ -1,2 +1,2 @@
 # Simulating-the-Influence-of-Temperature-Variation-on-Allowable-Storage-Time-of-Shelled-Corn
-This repository serves as a storage location for important files pertaining to the following research paper: "Simulating the Influence of Temperature Variation on Allowable Storage Time of Shelled Corn".  This research paper was written by myself, Bailey J. Adams (Iowa State University), and Kurt A. Rosentrater (Iowa State University).
+This repository serves as a storage location for important files pertaining to the following research paper: "Simulating the Influence of Temperature Variation on Allowable Storage Time of Shelled Corn".  This research paper was written by Bailey J. Adams (Iowa State University) and Kurt A. Rosentrater (Iowa State University).
