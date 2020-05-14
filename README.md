@@ -37,4 +37,4 @@ This function outputs a summary excel file of important dynamic AST data to the 
 
 ## _Conclusion_
 
-This function helps understand how dynamic AST is altered through three inputs: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis).  By experimenting with these variables, any user can simulate different scenarios and visualize how each input transforms the dynamic AST response.
+This function helps understand how dynamic AST is altered through three inputs: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis).  By experimenting with these variables, any user can simulate different scenarios and analyze how each input transforms the dynamic AST response.
