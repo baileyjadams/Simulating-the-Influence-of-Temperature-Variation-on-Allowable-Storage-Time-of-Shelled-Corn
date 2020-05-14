@@ -7,7 +7,7 @@ This repository serves as a storage location for a function that supports the fo
 In order to utilize this function, only three inputs must be sequentially specified by the user: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis).  These three inputs are expressed as "Input_Date", "Input_Temp_Trend", and "Input_Moisture_Content" variables in the first line of the function.  
  
    - "Input_Date" needs to be specified as a string variable and can be any date throughout the year
-   - "Input_Temp_Trend needs to be specified as a string varible in the form of 'Min' or 'Max'
+   - "Input_Temp_Trend" needs to be specified as a string varible in the form of 'Min' or 'Max'
    - "Input_Moisture_Content" needs to be specified as a numeric variable and can be any reasonable moisture content (% wet basis)
 
 An example of how to use this function at the command line is shown below:
