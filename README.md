@@ -1,6 +1,6 @@
 ## _Introduction_
 
-This repository serves as a storage location for a MATLAB function that supports the following research paper: **"Simulating the Influence of Temperature Variation on Allowable Storage Time of Shelled Corn"**.  This function is labeled "Dynamic_AST_Calculator.m", and it adds a level of automation to simulating dynamic allowable storage time (AST) and visualizing data.  This function is intended to be relatively straightforward and user-friendly.
+This repository serves as a storage location for a function that supports the following research paper: **"Simulating the Influence of Temperature Variation on Allowable Storage Time of Shelled Corn"**.  This function is labeled "Dynamic_AST_Calculator.m", and it adds a level of automation to simulating dynamic allowable storage time (AST) and visualizing data.  This function is intended to be relatively straightforward and user-friendly.
 
 ## _How to use the Dynamic_AST_Calculator.m Function_
 
@@ -18,7 +18,7 @@ If the specified temperature trend and moisture content inputs are valid, then a
 
 ## _Outputs of Function_
 
-This function outputs a summary excel file of important dynamic AST data along with two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
+This function outputs a summary excel file of important dynamic AST data to the local file directory along with two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
 
 **Figure 1 Example Output**
 
