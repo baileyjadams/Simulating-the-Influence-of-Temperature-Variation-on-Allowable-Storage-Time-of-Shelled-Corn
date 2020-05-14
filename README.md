@@ -21,11 +21,14 @@ If the specified temperature trend and moisture content inputs are valid, then a
 This function outputs a summary excel file of important dynamic AST data along with two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
 
 **Figure 1 Example Output**
+
 ![image](Example_Outputs_of_Dynamic_AST_Function/Figure_1_Example_Output.PNG "Figure 1 Example Output")
 
 **Figure 2 Example Output**
+
 ![image](Example_Outputs_of_Dynamic_AST_Function/Figure_2_Example_Output.PNG "Figure 2 Example Output")
 
 **Excel File Example Output**
+
 ![image](Example_Outputs_of_Dynamic_AST_Function/Visual_Example_of_Excel_File_Output.PNG "Visual Example of Excel File Output")
 
