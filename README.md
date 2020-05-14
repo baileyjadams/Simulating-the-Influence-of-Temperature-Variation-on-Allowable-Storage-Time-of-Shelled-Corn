@@ -9,5 +9,7 @@ In order to utilize this function, only three inputs must be sequentially specif
 
 ## _Outputs of Function_
 
-![image](Example
+![image](Example Outputs of Dynamic_AST_Function\Figure 1 (Cumulative Summation of Percent AST Spent) Example Output "Figure 1 Example Output")
+
+![image](Example Outputs of Dynamic_AST_Function\Figure 2 (Dynamic AST Response) Example Output "Figure 2 Example Output")
 
