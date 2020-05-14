@@ -1,6 +1,6 @@
 ## _Introduction_
 
-This repository serves as a storage location for a function that supports the following research paper: **"Simulating the Influence of Temperature Variation on Allowable Storage Time of Shelled Corn"**.  This function is labeled "Dynamic_AST_Calculator.m", and it adds a level of automation to simulating dynamic allowable storage time (AST) and visualizing dynamic AST data.  This function is intended to be relatively straightforward and user-friendly.
+This repository serves as a storage location for a function that supports the following research paper: **"Simulating the Influence of Temperature Variation on Allowable Storage Time of Shelled Corn"**.  This function is labeled "Dynamic_AST_Calculator.m", and it adds a level of automation to simulating dynamic allowable storage time (AST) and visualizing dynamic AST data through plots.  This function is intended to be relatively straightforward and user-friendly.
 
 
 ## _How to use the Dynamic_AST_Calculator.m Function_
@@ -9,9 +9,9 @@ In order to utilize this function, only three inputs must be sequentially specif
  
    - "Input_Date" needs to be specified as a string variable and can be any date throughout the year
    - "Input_Temp_Trend" needs to be specified as a string variable in the form of 'Min' or 'Max'
-   - "Input_Moisture_Content" needs to be specified as a numeric variable and can be any reasonable moisture content (% wet basis)
+   - "Input_Moisture_Content" needs to be specified as a numeric variable and can be any reasonable shelled corn moisture content (% wet basis)
 
-An example of how to use this function at the command line is shown below:
+An example of how to use this function at a command line is shown below:
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Command_Line_Example.PNG "Command Line Example")
 
