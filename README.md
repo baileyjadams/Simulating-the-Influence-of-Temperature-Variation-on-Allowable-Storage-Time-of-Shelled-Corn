@@ -32,4 +32,6 @@ This function outputs a summary excel file of important dynamic AST data along w
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Visual_Example_of_Excel_File_Output.PNG "Visual Example of Excel File Output")
 
+## _Conclusion_
+
 If you have questions about this function, feel free to email Bailey J. Adams at badams97@iastate.edu or Kurt A. Rosentrater at karosent@iastate.edu.
