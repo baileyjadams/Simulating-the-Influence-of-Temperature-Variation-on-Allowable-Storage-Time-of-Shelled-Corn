@@ -5,7 +5,7 @@ This repository serves as a storage location for a MATLAB function that supports
 
 ## _How to use the Dynamic_AST_Calculator.m Function_
 
-In order to utilize this function, only three inputs must be sequentially specified by the user from an automatically generated input box: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
+In order to utilize this function, only three inputs must be sequentially specified by the user through an input text box: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
  
    - Bin fill date can be any date throughout the year
    - Temperature trend can be entered as either 'Min' or 'Max'
