@@ -22,7 +22,7 @@ If the specified temperature trend and moisture content inputs are valid, then a
 
 ## _Outputs of Function_
 
-Each time this function is executed, it outputs a summary excel file of important dynamic AST data to the local file directory.  This summary excel file will have a corresponding timestamp associated with it in the file name.  This function also outputs two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
+Each time this function is executed, it outputs a summary excel file of important dynamic AST data to the local file directory.  This summary excel file will have the corresponding inputs associated with it in the file name.  This function also outputs two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
 
 **Figure 1 Example Output**
 
