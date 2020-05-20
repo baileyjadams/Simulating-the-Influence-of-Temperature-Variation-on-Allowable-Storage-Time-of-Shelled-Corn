@@ -15,7 +15,7 @@ These inputs need to be correctly formatted in order for the function to run wit
 
 An example of the proper format is depicted in the default values of the input box example shown below:
 
-![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Command Line Example")
+![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Input Box Example")
 
 If the specified temperature trend and moisture content inputs are valid, then acceptance messages will automatically display at the command line as the function is simulating the dynamic AST response.
 
