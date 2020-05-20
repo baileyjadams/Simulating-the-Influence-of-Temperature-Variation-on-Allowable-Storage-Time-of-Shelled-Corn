@@ -13,7 +13,7 @@ In order to utilize this function, only three inputs must be sequentially specif
 
 These inputs need to be correctly formatted in order for the function to run without errors.
 
-An example of the proper format is depicted in the default values of the input box example shown below:
+The proper format is depicted in the default values of the input box example shown below:
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Input Box Example")
 
