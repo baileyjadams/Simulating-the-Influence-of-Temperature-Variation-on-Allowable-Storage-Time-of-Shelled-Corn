@@ -5,22 +5,24 @@ This repository serves as a storage location for a MATLAB function that supports
 
 ## _How to use the Dynamic_AST_Calculator.m Function_
 
-In order to utilize this function, only three inputs must be sequentially specified by the user: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis).  These three inputs are expressed as "Input_Date", "Input_Temp_Trend", and "Input_Moisture_Content" variables in the first line of the function.  
+In order to utilize this function, only three inputs must be sequentially specified by the user from an automatically generated input box: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
  
-   - "Input_Date" needs to be specified as a string variable and can be any date throughout the year
-   - "Input_Temp_Trend" needs to be specified as a string variable in the form of 'Min' or 'Max'
-   - "Input_Moisture_Content" needs to be specified as a numeric variable and can be any reasonable shelled corn moisture content (% wet basis)
+   - Bin fill date can be any date throughout the year
+   - Temperature trend can be entered as either 'Min' or 'Max'
+   - Moisture content needs to be specified as a numeric variable and can be any reasonable shelled corn moisture content (% wet basis)
 
-An example of how to use this function at a command line is shown below:
+These inputs need to be correctly formatted in order for the function to run without errors.
+
+An example of the proper format is depicted in the default values of the input box example shown below:
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Command Line Example")
 
-If the specified temperature trend and moisture content inputs are valid, then acceptance messages will automatically display as the function is simulating the dynamic AST response.
+If the specified temperature trend and moisture content inputs are valid, then acceptance messages will automatically display at the command line as the function is simulating the dynamic AST response.
 
 
 ## _Outputs of Function_
 
-This function outputs a summary excel file of important dynamic AST data to the local file directory along with two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
+Each time this function is executed, it outputs a summary excel file of important dynamic AST data to the local file directory.  This summary excel file will have a corresponding timestamp associated with it in the file name.  This function also outputs two separate figures.  The first figure depicts the cumulative summation of percent AST spent, whereas the second figure depicts the days remaining of dynamic AST.
 
 **Figure 1 Example Output**
 
