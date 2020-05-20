@@ -13,7 +13,7 @@ In order to utilize this function, only three inputs must be sequentially specif
 
 An example of how to use this function at a command line is shown below:
 
-![image](Example_Outputs_of_Dynamic_AST_Function/Command_Line_Example.PNG "Command Line Example")
+![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Command Line Example")
 
 If the specified temperature trend and moisture content inputs are valid, then acceptance messages will automatically display as the function is simulating the dynamic AST response.
 
