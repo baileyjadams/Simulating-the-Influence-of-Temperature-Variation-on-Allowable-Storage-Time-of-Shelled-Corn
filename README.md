@@ -12,11 +12,11 @@ There are two options for accessing this function:
 
 Once this function is executed, an input text box will automatically generate and will require the user to specify three sequential inputs: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
  
-   - Bin fill date can be any date throughout the year
-   - Temperature trend can be entered as either 'Min' or 'Max'
-   - Moisture content needs to be specified as a numeric variable and can be any reasonable shelled corn moisture content (% wet basis)
+   - **Bin fill date** can be any date throughout the year
+   - **Temperature trend** can be entered as either 'Min' or 'Max'
+   - **Moisture content** needs to be specified as a numeric variable and can be any reasonable shelled corn moisture content (% wet basis)
 
-These inputs need to be correctly formatted in order for the function to run without errors.  The proper format is depicted in the default values of the input box example shown below:
+These inputs need to be **correctly formatted** in order for the function to run without errors.  The proper format is depicted in the default values of the input box example shown below:
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Input Box Example")
 
