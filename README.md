@@ -20,7 +20,7 @@ These inputs need to be correctly formatted in order for the function to run wit
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Input Box Example")
 
-The proper abbreviations for a given month are as follows: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, or Dec.
+The proper abbreviations for a given month are as follows: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, & Dec.
 
 If the specified temperature trend and moisture content inputs are valid, then acceptance messages will automatically display at the command line as the function is simulating the dynamic AST response.
 
