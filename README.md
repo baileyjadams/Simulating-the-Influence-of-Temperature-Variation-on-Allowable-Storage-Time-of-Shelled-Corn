@@ -10,7 +10,7 @@ There are two options for accessing this function:
    
    - For individuals that do not possess a MATLAB license: this same Dynamic_AST_Calculator.m function has also been transformed into an executable (.exe) file which is stored in a zip folder within this repository.  This executable file allows any user to easily click on the .exe file icon and have the function automatically execute in the background.  However, in order for this to work, you must download the corresponding 64-bit **R2018b** version of MATLAB Runtime.  MATLAB Runtime is completely free, and it allows anyone to "run compiled MATLAB applications or components without installing MATLAB."  The MATLAB Runtime download link can be found here: https://www.mathworks.com/products/compiler/matlab-runtime.html.
 
-Once this function is executed, an input text box will be automatically generated and will require the user to specify three sequential inputs: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
+Once this function is executed, an input text box will automatically generate and will require the user to specify three sequential inputs: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
  
    - Bin fill date can be any date throughout the year
    - Temperature trend can be entered as either 'Min' or 'Max'
