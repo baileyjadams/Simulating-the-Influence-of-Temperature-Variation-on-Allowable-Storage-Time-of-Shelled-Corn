@@ -5,17 +5,22 @@ This repository serves as a storage location for a MATLAB function that supports
 
 ## _How to use the Dynamic_AST_Calculator.m Function_
 
-In order to utilize this function, only three inputs must be sequentially specified by the user through an input text box: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
+There are two options for accessing this function:
+   - For individuals that possess a MATLAB license and have the full MATLAB software installed: download the **Dynamic_AST_Calculator.m** file directly from this repository and load this script into your MATLAB environment.
+   
+   - For individuals that do not possess a MATLAB license: this same Dynamic_AST_Calculator.m function has also been transformed into an executable (.exe) file which is also stored in a zip folder within this repository.  This .exe file allows any user to easily click on the file icon and have the function automatically execute in the background.  However, in order for this to work, you must download the corresponding 64-bit **R2018b** version of MATLAB Runtime.  MATLAB Runtime is completely free, and it allows anyone to "run compiled MATLAB applications or components without installing MATLAB."  The MATLAB Runtime download link can be found here: https://www.mathworks.com/products/compiler/matlab-runtime.html.
+
+Once this function is executed, an input text box will be automatically generated and will require the user to specify three sequential inputs: bin fill date, minimum or maximum temperature trend, and moisture content (% wet basis). 
  
    - Bin fill date can be any date throughout the year
    - Temperature trend can be entered as either 'Min' or 'Max'
    - Moisture content needs to be specified as a numeric variable and can be any reasonable shelled corn moisture content (% wet basis)
 
-These inputs need to be correctly formatted in order for the function to run without errors.
-
-The proper format is depicted in the default values of the input box example shown below:
+These inputs need to be correctly formatted in order for the function to run without errors.  The proper format is depicted in the default values of the input box example shown below:
 
 ![image](Example_Outputs_of_Dynamic_AST_Function/Input_Box_Example.PNG "Input Box Example")
+
+The proper abbreviations for a given month are as follows: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, or Dec.
 
 If the specified temperature trend and moisture content inputs are valid, then acceptance messages will automatically display at the command line as the function is simulating the dynamic AST response.
 
